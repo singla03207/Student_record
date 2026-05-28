@@ -28,6 +28,7 @@ A beginner-level C programming project that stores and manages student records u
 ----------SAMPLE OUTPUT-------------
 NAME OF STUDENT1 : Sakshi
 Roll NO. OF STUDENT1 : 101
+
 85 78 90 88 92
 
 Average of student1 is: 86.60
